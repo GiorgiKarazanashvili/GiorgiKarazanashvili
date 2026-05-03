@@ -1,16 +1,22 @@
-## Hi there 👋
+# Giorgi Karazanashvili
 
-<!--
-**GiorgiKarazanashvili/GiorgiKarazanashvili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS senior at UMass Boston, graduating May 2026. Interested in machine learning, computer vision, and medical imaging.
 
-Here are some ideas to get you started:
+Previously ML intern at [MicroPort MedBot](https://www.microport.com/) (Shanghai), where I built CNN segmentation models for real-time surgical video analysis on the Toumai robotic surgery platform using PyTorch and OpenCV.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on prostate cancer detection using micro-ultrasound imaging and self-configuring segmentation architectures (nnU-Net).
+
+## Selected Projects
+
+| Project | Description |
+|---------|-------------|
+| [Speaker Identification](https://github.com/GiorgiKarazanashvili/Speaker-Identification-Using-Voice-Features) | ML pipeline using Lasso feature selection (65 to 29 features) and Logistic Regression to distinguish speakers with similar voices. 100% test accuracy. |
+| [LoL Itemization Agent](https://github.com/GiorgiKarazanashvili/LEAGUE-OF-LEGENDS-ITEMIZATION-AGENT) | Neural network recommender that analyzes player behavior patterns to suggest item builds. CS672 Neural Networks final project. |
+
+## Tech
+
+Python, PyTorch, OpenCV, scikit-learn, FastAPI, C, Java, SQL, Git
+
+## Links
+
+[LinkedIn](https://www.linkedin.com/in/giorgi-karazanashvili)
