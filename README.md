@@ -2,7 +2,7 @@
 
 CS senior at UMass Boston, graduating May 2026. Interested in machine learning, computer vision, and medical imaging.
 
-Previously ML intern at [MicroPort MedBot](https://www.microport.com/) (Shanghai), where I built CNN segmentation models for real-time surgical video analysis on the Toumai robotic surgery platform using PyTorch and OpenCV.
+Previously ML intern at [MicroPort MedBot](https://www.microport.com/) (Shanghai), where I built CNN segmentation models for real-time surgical video analysis using PyTorch and OpenCV.
 
 Currently working on prostate cancer detection using micro-ultrasound imaging and self-configuring segmentation architectures (nnU-Net).
 
